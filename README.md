@@ -4,7 +4,7 @@ This project aims to predict customer churn using machine learning techniques. T
 
 #### Data Description
 
-The dataset used for this analysis consists of customer information, including various features such as demographic data, usage patterns, and service-related details. The target variable is the churn status, indicating whether a customer has churned or not.
+The dataset used for this analysis consists of customer information, including various features. The target variable is the churn status, indicating whether a customer has churned or not.
 
 #### Project Structure
 
