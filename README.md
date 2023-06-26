@@ -33,9 +33,8 @@ To gain a deeper understanding of the predictions made by the best-performing mo
 
 Potential areas for future improvement include:
 
-Incorporating more advanced modeling techniques like random forest  models.
-Exploring additional features or external data sources to improve prediction accuracy.
-Developing real-time churn prediction models to enable proactive customer retention strategies.
+Incorporating more advanced modeling techniques and exploring additional features or external data sources to improve prediction accuracy.
+Also Developing real-time churn prediction models to enable proactive customer retention strategies.
 
 #### Dependencies and Instructions
 
