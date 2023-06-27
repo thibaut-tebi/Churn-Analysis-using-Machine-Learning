@@ -2,9 +2,11 @@
 
 This project aims to predict customer churn using machine learning techniques. The goal is to develop models that can accurately identify customers who are likely to cancel their subscriptions, allowing businesses to implement targeted retention strategies.
 
+
+### PROJECT SUMMARY
 | Project Name   | Description                                                                                                                           | Technologies Used                                       | Published Article                                         |
 |----------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|
-| Churn Analysis | Analyzing customer churn in a telecom company to identify factors influencing customer attrition and develop predictive models. | Python, scikit-learn, pandas, matplotlib, Jupyter Notebook | [Link to Published Article](https://mavenanalytics.io/project/6839) |
+| Churn Analysis | Analyzing customer churn in a telecom company to identify factors influencing customer attrition and develop predictive models. | SQL, Python, scikit-learn, pandas, matplotlib, Seaborn, Jupyter Notebook | [Link to Published Article](https://mavenanalytics.io/project/6839) |
 
 
 
